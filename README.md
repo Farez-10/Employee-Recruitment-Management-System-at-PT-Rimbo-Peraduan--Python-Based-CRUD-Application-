@@ -95,4 +95,4 @@ The application uses **Python Lists and Dictionaries** to store recruitment data
 1. Ensure **Python 3.x** is installed on your system  
 2. Run the application using the command below:
    ```bash
-   python Capstone_Project_1_Fahrezy_Maulana_Haz.py
+   python Employee Recruitment Management System at PT Rimbo Peraduan (Python-Based CRUD Application).py
